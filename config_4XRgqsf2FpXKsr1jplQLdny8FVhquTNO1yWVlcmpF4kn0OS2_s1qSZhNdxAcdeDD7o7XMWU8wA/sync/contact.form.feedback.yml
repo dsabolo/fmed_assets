@@ -1,0 +1,14 @@
+uuid: ddf9b9bc-28bb-4371-8ae1-3aeb1c8ab427
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - fmed@fmed.uba.ar
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
